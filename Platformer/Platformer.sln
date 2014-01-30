@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformer", "SapPlatformer\SapPlatformer\Platformer.csproj", "{0C9E0173-0C84-4FF0-82EF-C0FA76D53826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformerContent", "SapPlatformer\SapPlatformerContent\PlatformerContent.contentproj", "{3B6A40B7-BC43-44C8-9CF6-B5B40C54572B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStateManagement", "GameStateManagement\GameStateManagement.csproj", "{B455B7DF-A382-4BA1-AC0C-76F8DBE930DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C9E0173-0C84-4FF0-82EF-C0FA76D53826}.Debug|x86.ActiveCfg = Debug|x86
+		{0C9E0173-0C84-4FF0-82EF-C0FA76D53826}.Debug|x86.Build.0 = Debug|x86
+		{0C9E0173-0C84-4FF0-82EF-C0FA76D53826}.Release|x86.ActiveCfg = Release|x86
+		{0C9E0173-0C84-4FF0-82EF-C0FA76D53826}.Release|x86.Build.0 = Release|x86
+		{3B6A40B7-BC43-44C8-9CF6-B5B40C54572B}.Debug|x86.ActiveCfg = Debug|x86
+		{3B6A40B7-BC43-44C8-9CF6-B5B40C54572B}.Release|x86.ActiveCfg = Release|x86
+		{B455B7DF-A382-4BA1-AC0C-76F8DBE930DE}.Debug|x86.ActiveCfg = Debug|x86
+		{B455B7DF-A382-4BA1-AC0C-76F8DBE930DE}.Debug|x86.Build.0 = Debug|x86
+		{B455B7DF-A382-4BA1-AC0C-76F8DBE930DE}.Release|x86.ActiveCfg = Release|x86
+		{B455B7DF-A382-4BA1-AC0C-76F8DBE930DE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
